@@ -1,16 +1,7 @@
 {
-  "Get": {
-    "Cpf": "",
-    "Cnh": "",
-    "Nome": "",
-    "Telefone": "",
-    "Email": "",
-    "Cep": "",
-    "Logradouro": "",
-    "Numero": "",
-    "Bairro": "",
-    "Cidade": "",
-    "Estado": "",
-    "Pais": ""
-  }
+  "User": {},
+  "Post": {},
+  "Comment": {},
+  "Person": {},
+  "City": {}
 }
