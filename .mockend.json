@@ -1,18 +1,16 @@
 {
   "Get": {
-    "Clientes": {
-      "cpf": "",
-      "cnh": "",
-      "nome": "",
-      "telefone": "",
-      "email": "",
-      "cep": "",
-      "logradouro": "",
-      "numero": "",
-      "bairro": "",
-      "cidade": "",
-      "estado": "",
-      "pais": ""
-    }
+    "Cpf": "",
+    "Cnh": "",
+    "Nome": "",
+    "Telefone": "",
+    "Email": "",
+    "Cep": "",
+    "Logradouro": "",
+    "Numero": "",
+    "Bairro": "",
+    "Cidade": "",
+    "Estado": "",
+    "Pais": ""
   }
 }
