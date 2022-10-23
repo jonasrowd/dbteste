@@ -1,17 +1,17 @@
 {
   "clientes": {
-    "cpf": {},
-    "cnh": {},
-    "nome": {},
-    "telefone": {},
-    "email": {},
+    "cpf": "",
+    "cnh": "",
+    "nome": "",
+    "telefone": "",
+    "email": "",
     "cep": {
-      "logradouro": {},
-      "numero": {},
-      "bairro": {},
-      "cidade": {},
-      "estado": {},
-      "pais": {}
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "pais": ""
     }
   }
 }
