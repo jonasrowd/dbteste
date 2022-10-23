@@ -6,14 +6,13 @@
       "nome": "",
       "telefone": "",
       "email": "",
-      "cep": {
-        "logradouro": "",
-        "numero": "",
-        "bairro": "",
-        "cidade": "",
-        "estado": "",
-        "pais": ""
-      }
+      "cep": "",
+      "logradouro": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": "",
+      "pais": ""
     }
   }
 }
