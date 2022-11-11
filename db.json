@@ -39,36 +39,6 @@
           "comment": "It's your birthday, we're gonna party!",
           "author": "25 Cent",
           "date": "2011-12-02T17:57:28.556094Z"
-        },
-        {
-          "name": "Jonas Teste",
-          "rating": 3,
-          "comment": "Teste Comment Rate",
-          "date": "2022-11-09T00:48:03.259Z"
-        },
-        {
-          "author": "Jonas",
-          "rating": 4,
-          "comment": "Testcomente",
-          "date": "2022-11-09T00:55:16.000Z"
-        },
-        {
-          "author": "sdfsdfasd",
-          "rating": 2,
-          "comment": "asfdasdfasdf",
-          "date": "2022-11-10T17:58:03.110Z"
-        },
-        {
-          "author": "cxc\\zcx\\z",
-          "rating": 3,
-          "comment": "xzcscz\\xc\\zxc",
-          "date": "2022-11-10T22:25:45.465Z"
-        },
-        {
-          "author": "\\zgc\\zcg\\zjhgc",
-          "rating": 5,
-          "comment": "ajgsuifsadiufhiasudhfiuashd",
-          "date": "2022-11-10T22:25:56.620Z"
         }
       ]
     },
@@ -258,16 +228,6 @@
       "contactType": "Email",
       "message": "Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. Comentário Teste. ",
       "id": 1
-    },
-    {
-      "firstname": "AFASDFSADFSD",
-      "lastname": "ASDFSAD",
-      "telnum": "22222222222222",
-      "email": "ASDFSD@ASASDADA.COM",
-      "agree": false,
-      "contactType": "Tel",
-      "message": "WQdsFASDFSEWFSDGSDFGSDGFSDFGSD",
-      "id": 2
     }
   ]
 }
