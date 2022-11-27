@@ -293,102 +293,6 @@
   "locacao": [
     {
       "id": 1,
-      "idCliente": 1,
-      "idCarro": 3,
-      "cliente": "Natalia Machado",
-      "carro": "HYUNDAY/HB20s/2021",
-      "qtdDias": 2,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 400
-    },
-    {
-      "id": 2,
-      "idCliente": 6,
-      "idCarro": 6,
-      "cliente": "Sara",
-      "carro": "FIAT/ARGO/2022",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 180
-    },
-    {
-      "id": 3,
-      "idCliente": 1,
-      "idCarro": 3,
-      "cliente": "Natalia Machado",
-      "carro": "HYUNDAY/HB20s/2021",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 200
-    },
-    {
-      "id": 4,
-      "idCliente": 1,
-      "idCarro": 3,
-      "cliente": "Natalia Machado",
-      "carro": "HYUNDAY/HB20s/2021",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 200
-    },
-    {
-      "id": 5,
-      "idCliente": 1,
-      "idCarro": 3,
-      "cliente": "Natalia Machado",
-      "carro": "HYUNDAY/HB20s/2021",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 200
-    },
-    {
-      "id": 6,
-      "idCliente": 1,
-      "idCarro": 3,
-      "cliente": "Natalia Machado",
-      "carro": "HYUNDAY/HB20s/2021",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 200
-    },
-    {
-      "id": 7,
-      "idCliente": 1,
-      "idCarro": 3,
-      "cliente": "Natalia Machado",
-      "carro": "HYUNDAY/HB20s/2021",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 200
-    },
-    {
-      "id": 8,
-      "idCliente": 3,
-      "idCarro": 4,
-      "cliente": "Heloise Machado",
-      "carro": "TOYOTA/HILUX/2021",
-      "qtdDias": 1,
-      "dtIni": "11/26/2022",
-      "dtFim": "11/26/2022",
-      "multa": "",
-      "total": 300
-    },
-    {
-      "id": 9,
       "idCliente": 13,
       "idCarro": 3,
       "cliente": "Legolas",
@@ -400,7 +304,7 @@
       "total": 200
     },
     {
-      "id": 10,
+      "id": 2,
       "idCliente": 16,
       "idCarro": 4,
       "cliente": "Gandalf",
